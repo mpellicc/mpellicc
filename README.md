@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm **Matteo** 😊
 
-<!--
-**mpellicc/mpellicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Developer** with a strong leaning towards **Back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+- 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
+- 🏗️ Building my **Personal Portfolio** using **Next.js** to master modern React patterns.
+- 🐍 Exploring **Python** for personal projects.
+
+### 🛠 Tech Stack
+- **Languages:** Java, TypeScript, JavaScript, C, Python.
+- **Frameworks & Tools:** Spring Boot, React, Next.js, Git.
+- **Interests:** System Architecture, UI/UX Design.
+
+### 🎮 Beyond Coding
+When I'm not in front of a terminal, you can find me:
+- 🎮 Diving into **Video Games**.
+- ⛩️ Catching up on the latest **Anime & Manga**.
+- 🏋️‍♂️ Training at the **Gym** to stay active.
+
+### 📫 Get in touch
+- **Email:** [mat.pelliccione@gmail.com](mailto:mat.pelliccione@gmail.com)
+- **Telegram:** [@pelliccm](https://t.me/pelliccm)
