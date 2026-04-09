@@ -6,7 +6,7 @@ I am a **Full-Stack Developer** with a strong leaning towards **Back-end develop
 
 ### 🚀 What I'm up to
 - 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
-- 🏗️ Building my **Personal Portfolio** using **Next.js** to master modern React patterns.
+- 🏗️ Building my **Personal Portfolio** in plain **HTML** and **CSS**.
 - 🐍 Exploring **Python** for personal projects.
 
 ### 🛠 Tech Stack
