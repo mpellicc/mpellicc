@@ -15,7 +15,7 @@ I am a **Full-Stack Developer** with a strong leaning towards **Back-end develop
 - **Interests:** System Architecture, UI/UX Design.
 
 ### 🎮 Beyond Coding
-When I'm not in front of a computer, you can find me:
+When I'm not in front of lines of code, you can find me:
 - 🎮 Diving into **Video Games**.
 - ⛩️ Catching up on the latest **Anime & Manga**.
 - 🏋️‍♂️ Training at the **Gym** to stay active.
