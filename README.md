@@ -5,7 +5,7 @@ I am a **Full-Stack Developer** with a strong leaning towards **Back-end develop
 ---
 
 ### 🚀 What I'm up to
-- 👨🏻‍💻 Working [@DMA-digital-for-business](https://github.com/DMA-digital-for-business) as a **Back-end developer**.
+- 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **Back-end developer**.
 - 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
 - 🏗️ Building my [**Personal Portfolio**](https://mpellicc.dev) in plain **HTML** and **CSS**.
 - 🐍 Exploring **Python** for personal projects.
