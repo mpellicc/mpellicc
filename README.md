@@ -1,11 +1,11 @@
 # Hi there! I'm **Matteo** 😊
 
-I am a **Full-Stack Developer** with a strong leaning towards **Back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
+I am a **full-stack Developer** with a strong leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
 ---
 
 ### 🚀 What I'm up to
-- 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **Back-end developer**.
+- 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
 - 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
 - 🏗️ Building my [**Personal Portfolio**](https://mpellicc.dev) in plain **HTML** and **CSS**.
 - 🐍 Exploring **Python** for personal projects.
