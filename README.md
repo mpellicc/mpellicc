@@ -1,6 +1,6 @@
 # Hi there! I'm **Matteo** 😊
 
-I am a **full-stack Developer** with a strong leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
+I am a **full-stack developer** with a leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
 ---
 
