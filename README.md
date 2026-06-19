@@ -2,26 +2,40 @@
 
 I am a **full-stack developer** with a leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
----
+## 🚀 What I'm up to
 
-### 🚀 What I'm up to
 - 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
 - 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
 - 🏗️ Building my [**Personal Portfolio**](https://mpellicc.dev) in plain **HTML** and **CSS**.
 - 🐍 Exploring **Python** for personal projects.
 
-### 🛠 Tech Stack
-- **Languages:** Java, TypeScript, JavaScript, C, Python.
-- **Frameworks & Tools:** Spring Boot, React, Next.js, Git.
-- **Interests:** System Architecture, UI/UX Design.
+## 🎮 Beyond Coding
 
-### 🎮 Beyond Coding
 When I'm not in front of lines of code, you can find me:
+
 - 🎮 Diving into **Video Games**.
 - ⛩️ Catching up on the latest **Anime & Manga**.
 - 🏋️‍♂️ Training at the **Gym** to stay active.
 
-### 📫 Get in touch
+## 🛠️ Work Environment
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=10&i=macos,zshell,codex,chatgpt,githubcopilot,visualstudiocode,slack,gmail" alt="mpellicc Work Environment"/></a>
+</div>
+
+## ⚙️ Skills & Stats
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=25&i=amazonwebservices,bash,bruno,c,css,dbeaver,docker,git,github,html,hubspot,java,javascript,markdown,mongodb,nextjs,nodejs,npm,postgresql,postman,python,reactjs,springboot,sql,tailwindcss,typescript,vitest,zod" alt="mpellicc Skills"/></a>
+</div>
+<br />
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/mpellicc"><img height="200px" align="center" src="https://streak-stats.demolab.com?user=mpellicc&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&hide_longest_streak=true" alt="mpellicc GitHub Streak" /></a>
+    <a href="https://github.com/mpellicc"><img height="200px" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=mpellicc&langs_count=4&hide_values=true&theme=transparent&hide_border=true&layout=compact" alt="mpellicc GitHub Most Used Languages"></a>
+</div>
+
+## 📫 Get in touch
+
 - [Telegram](https://t.me/pelliccm)
 - [LinkedIn](https://www.linkedin.com/in/matpelliccione/)
-- [Email](mailto:mat.pelliccione@gmail.com)
+- [Email](mailto:mat.pelliccione+dev@gmail.com)
