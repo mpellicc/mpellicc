@@ -20,7 +20,7 @@ When I'm not in front of lines of code, you can find me:
 ## 🛠️ Work Environment
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=10&i=macos,zshell,codex,chatgpt,githubcopilot,visualstudiocode,slack,gmail" alt="mpellicc Work Environment"/></a>
+    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=10&i=macos,zshell,codex,chatgpt,githubcopilot,visualstudiocode,hoppscotch,slack,gmail" alt="mpellicc Work Environment"/></a>
 </div>
 
 ## ⚙️ Skills & Stats
