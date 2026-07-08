@@ -2,12 +2,14 @@
 
 I am a **full-stack developer** with a leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
+## Personal portfolio site
+Built with plain **HTML**, **CSS**, and a focused amount of **JavaScript** for theme, navigation, and contact flows. <br />
+[**Go to live site**](https://mpellicc.dev)
+
 ## 🚀 What I'm up to
 
 - 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
-- 🎓 Deepening my knowledge in **Algorithms** and **Data Structures** using **C** at University.
-- 🏗️ Building my [**Personal Portfolio**](https://mpellicc.dev) in plain **HTML** and **CSS**.
-- 🐍 Exploring **Python** for personal projects.
+- 🐍 Exploring **Python** for personal projects like [@fantaformazionibot](https://t.me/fantaformazionibot).
 
 ## 🎮 Beyond Coding
 
