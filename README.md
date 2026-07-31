@@ -21,13 +21,13 @@ When I'm not in front of lines of code, you can find me:
 ## 🛠️ Work Environment
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=10&i=macos,zshell,codex,chatgpt,githubcopilot,visualstudiocode,hoppscotch,slack,gmail" alt="mpellicc Work Environment"/></a>
+    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=10&i=macos,zshell,codex,chatgpt,gemini,visualstudiocode,hoppscotch,slack,gmail" alt="mpellicc Work Environment"/></a>
 </div>
 
 ## ⚙️ Skills & Stats
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=25&i=amazonwebservices,bash,bruno,c,css,dbeaver,docker,git,github,html,hubspot,java,javascript,markdown,mongodb,nextjs,nodejs,npm,postgresql,postman,python,reactjs,springboot,sql,tailwindcss,typescript,vitest,zod" alt="mpellicc Skills"/></a>
+    <a href="https://skillicons.dev"><img src="https://skills.syvixor.com/api/icons?perline=25&i=amazonwebservices,bash,bruno,c,claudeai,css,dbeaver,docker,git,github,html,hubspot,java,javascript,markdown,mongodb,nextjs,nodejs,npm,postgresql,postman,python,reactjs,springboot,sql,tailwindcss,typescript,vercel,vitest,zod" alt="mpellicc Skills"/></a>
 </div>
 <br />
 <div style="display: flex; justify-content: center;">
