@@ -2,7 +2,7 @@
 
 I am a **full-stack developer** with a leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
-## ✨ [mpellicc.dev](https://mpellicc.dev)
+## 👨🏻‍💻 [mpellicc.dev](https://mpellicc.dev)
 A personal portfolio site built with **Astro**, **CSS**, and **TypeScript**.
 
 ## 🚀 What I'm up to
