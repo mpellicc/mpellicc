@@ -41,26 +41,11 @@ When I'm not in front of lines of code, you can find me:
 
 **Have an idea, a project, or just want to say hi? My inbox is always open.** 👋
 
-</div>
+<br />
 
-### Version A: badges
-
-<div align="center">
-
-<a href="https://mpellicc.dev"><img height="44" src="https://img.shields.io/badge/Portfolio-mpellicc.dev-111111?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="mailto:matteo@mpellicc.dev"><img height="44" src="https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/matpelliccione/"><img height="44" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://t.me/pelliccm"><img height="44" src="https://img.shields.io/badge/Telegram-Chat%20with%20me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-</div>
-
-### Version B: custom cards
-
-<div align="center">
-
-<a href="https://mpellicc.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/portfolio-dark.svg"><img src="assets/contact/portfolio-light.svg" width="215" alt="Portfolio" /></picture></a>&nbsp;
-<a href="mailto:matteo@mpellicc.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/email-dark.svg"><img src="assets/contact/email-light.svg" width="215" alt="Email" /></picture></a>&nbsp;
-<a href="https://www.linkedin.com/in/matpelliccione/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/linkedin-dark.svg"><img src="assets/contact/linkedin-light.svg" width="215" alt="LinkedIn" /></picture></a>&nbsp;
-<a href="https://t.me/pelliccm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact/telegram-dark.svg"><img src="assets/contact/telegram-light.svg" width="215" alt="Telegram" /></picture></a>
+<a href="https://mpellicc.dev"><img height="44" src="https://img.shields.io/badge/mpellicc.dev-111111?style=for-the-badge&logo=astro&logoColor=white" alt="mpellicc.dev" /></a>&nbsp;&nbsp;
+<a href="mailto:matteo@mpellicc.dev"><img height="44" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/matpelliccione/"><img height="44" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://t.me/pelliccm"><img height="44" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
