@@ -7,8 +7,8 @@ A personal portfolio site built with **Astro**, **CSS**, and **TypeScript**.
 
 ## 🚀 What I'm up to
 
-- 👨🏻‍💻 Working at [**DMA**](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
-- 🐍 Exploring **Python** for personal projects like [@fantaformazionibot](https://t.me/fantaformazionibot).
+- 👨🏻‍💻 Working [@DMA](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
+- 🐍 Exploring **Python** and **AI** for personal projects like [@fantaformazionibot](https://t.me/fantaformazionibot).
 
 ## 🎮 Beyond Coding
 
@@ -39,4 +39,4 @@ When I'm not in front of lines of code, you can find me:
 
 - [Telegram](https://t.me/pelliccm)
 - [LinkedIn](https://www.linkedin.com/in/matpelliccione/)
-- [Email](mailto:mat.pelliccione+dev@gmail.com)
+- [Email](mailto:matteo@mpellicc.dev)
