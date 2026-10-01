@@ -37,6 +37,14 @@ When I'm not in front of lines of code, you can find me:
 
 ## 📫 Get in touch
 
-- [Telegram](https://t.me/pelliccm)
-- [LinkedIn](https://www.linkedin.com/in/matpelliccione/)
-- [Email](mailto:matteo@mpellicc.dev)
+<div align="center">
+    <a href="https://t.me/pelliccm">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&labelColor=555555" alt="Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/matpelliccione/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn" />
+    </a>
+    <a href="mailto:matteo@mpellicc.dev">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=555555" alt="Email" />
+    </a>
+</div>
