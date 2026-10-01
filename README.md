@@ -2,13 +2,11 @@
 
 I am a **full-stack developer** with a leaning towards **back-end development**, currently pursuing a degree in **Computer Science and Engineering** at the University of Bologna in Cesena.
 
-## 👨🏻‍💻 [mpellicc.dev](https://mpellicc.dev)
-A personal portfolio site built with **Astro**, **CSS**, and **TypeScript**.
-
 ## 🚀 What I'm up to
 
+- ⭐️ [mpellicc.dev](https://mpellicc.dev): A personal portfolio site built with **Astro**, **CSS**, and **TypeScript**.
 - 👨🏻‍💻 Working [@DMA](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
-- 🐍 Exploring **Python** and **AI** for personal projects like [@fantaformazionibot](https://t.me/fantaformazionibot).
+- 🐍 Exploring **Python** for personal projects, like [@fantaformazionibot](https://t.me/fantaformazionibot).
 
 ## 🎮 Beyond Coding
 
@@ -37,15 +35,9 @@ When I'm not in front of lines of code, you can find me:
 
 ## 📫 Get in touch
 
-<div align="center">
-
-**Have an idea, a project, or just want to say hi? My inbox is always open.** 👋
-
-<br />
-
+<div>
 <a href="https://mpellicc.dev"><img height="44" src="https://img.shields.io/badge/mpellicc.dev-111111?style=for-the-badge&logo=astro&logoColor=white" alt="mpellicc.dev" /></a>&nbsp;&nbsp;
-<a href="mailto:matteo@mpellicc.dev"><img height="44" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+<a href="mailto:contact@mpellicc.dev"><img height="44" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/matpelliccione/"><img height="44" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://t.me/pelliccm"><img height="44" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
 </div>
