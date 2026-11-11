@@ -6,7 +6,7 @@ I am a **full-stack developer** with a leaning towards **back-end development**,
 
 - ⭐️ [mpellicc.dev](https://mpellicc.dev): A personal portfolio site built with **Astro**, **CSS**, and **TypeScript**.
 - 👨🏻‍💻 Working [@DMA](https://github.com/DMA-digital-for-business) as a **full-stack developer**.
-- 🐍 Exploring **Python** for personal projects, like [@fantaformazionibot](https://t.me/fantaformazionibot).
+- 🐍 Creating and maintaining personal projects, like [@fantaformazionibot](https://t.me/fantaformazionibot).
 
 ## 🎮 Beyond Coding
 
